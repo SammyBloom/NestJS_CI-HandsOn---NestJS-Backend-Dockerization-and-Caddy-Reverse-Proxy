@@ -1,0 +1,7 @@
+POST http://localhost/ninjas/verify/
+Content-Type: application/json
+
+{
+    "name": "Ninja"
+    "code": "12345"
+}
